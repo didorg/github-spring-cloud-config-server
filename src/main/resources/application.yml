@@ -16,3 +16,4 @@ spring:
           search-paths:
            - restaurant
            - customer
+           - order
