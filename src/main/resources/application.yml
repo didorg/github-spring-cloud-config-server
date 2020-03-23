@@ -15,3 +15,4 @@ spring:
           #password: forPrivateGithubRepo
           search-paths:
            - restaurant
+           - customer
