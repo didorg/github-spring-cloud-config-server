@@ -17,3 +17,7 @@ spring:
            - restaurant
            - customer
            - order
+  security:
+    user:
+      name: didoMS
+      password: did0Pass
