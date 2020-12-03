@@ -36,3 +36,5 @@ target/*
 
 /target/
 *.tar.gz
+.DS_Store
+src/.DS_Store
